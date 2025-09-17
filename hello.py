@@ -6,4 +6,5 @@
 # 2. Add another print statement with your name.
 # 3. Add another print statement with your favorite hobby.
 
-print("Hello, world!")
+print("Hello, Muhammad Umar Jafri!")
+print("I like to play basketball!")
